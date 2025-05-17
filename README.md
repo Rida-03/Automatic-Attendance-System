@@ -16,3 +16,10 @@ If the face matches an existing entry in the database, the system marks attendan
 
 Data Storage:
 Attendance records are stored in a database and confirmation mail is sent
+
+Key Technologies Used:
+CV2 and Imagetk (for face detection)
+
+Machine Learning / Deep Learning (for recognition)
+
+Python 
